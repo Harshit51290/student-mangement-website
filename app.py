@@ -100,6 +100,7 @@ def add_student():
     finally:
         return jsonify(msg=msg)
 
+
 @app.route('/view-students/', methods=['GET'])
 def view_students():
     if 'username' not in session:

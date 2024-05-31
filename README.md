@@ -1,6 +1,8 @@
 
 # Student Management System
 
+## Output
+
 ## Description
 This is a simple web application built using Flask for managing students' records.
 
@@ -22,13 +24,8 @@ This is a simple web application built using Flask for managing students' record
     cd student-management-system
     ```
 
-3. Create a virtual environment:
 
-    ```
-    python -m venv venv
-    ```
-
-4. Activate the virtual environment:
+3. Activate the virtual environment:
 
     - On Windows:
         ```
@@ -39,7 +36,7 @@ This is a simple web application built using Flask for managing students' record
         source venv/bin/activate
         ```
 
-5. Install dependencies:
+4. Install dependencies:
 
     ```
     pip install -r requirements.txt
