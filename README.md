@@ -1,8 +1,6 @@
 
 # Student Management System
 
-## Output
-
 ## Description
 This is a simple web application built using Flask for managing students' records.
 
