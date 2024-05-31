@@ -1,6 +1,9 @@
 
 # Student Management System
 
+## Output
+![Screenshot (26)](https://github.com/Harshit51290/student-mangement-website/assets/157795958/e618bf55-4bd0-4417-9564-5c0bcc51d0bc)
+
 ## Description
 This is a simple web application built using Flask for managing students' records.
 
